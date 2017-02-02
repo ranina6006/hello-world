@@ -1,2 +1,2 @@
 # hello-world
-i like ice scream but i hate centipedes
+i like icecream but i hate centipedes
